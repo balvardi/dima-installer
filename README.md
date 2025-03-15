@@ -88,7 +88,7 @@ A secure and efficient plugin to export and import WordPress data for custom ins
 اگر در هنگام استفاده از افزونه با مشکلی مواجه شدید یا پیشنهادی برای بهبود آن دارید، لطفاً با ما در تماس باشید. ما همیشه آماده‌ی کمک هستیم!
 
 - **GitHub:** https://github.com/balvardi/dima-installer/ 
-- **ایمیل:** [آدرس ایمیل شما]
+- **ایمیل:** info@dimagroup.ir
 
 ---
 
