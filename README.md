@@ -122,4 +122,3 @@ A secure and efficient plugin to export and import WordPress data for custom ins
 
 ---
 
-اگر نیاز به تغییر یا اضافه‌کردن چیزی به این فایل **README.md** دارید، خوشحال می‌شم کمکتون کنم! 😊
